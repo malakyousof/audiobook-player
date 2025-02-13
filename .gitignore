@@ -1,0 +1,15 @@
+# Ignore virtual environment (Python)
+venv/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore IDE-specific files
+.idea/
+
+# Ignore logs and cache files
+*.log
+images/background_main.jpg
+images/pexels-mdsnmdsnmdsn-1831234.jpg
+/images
